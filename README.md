@@ -8,4 +8,9 @@ This project was highly inspired by [notflix](https://github.com/Bugswriter/notf
 * [peerflix](https://github.com/mafintosh/peerflix) `sudo npm install peerflix -g`
 # Download
 ``` sh
+curl -o https://raw.githubusercontent.com/SrTopster/pyflix/main/pyflix.py
+```
+# Usage
+``` sh
+python3 pyflix.py movie name here
 ```
