@@ -4,7 +4,7 @@ This project was highly inspired by [notflix](https://github.com/Bugswriter/notf
 # Requirements
 * Python3
 * BeatifulSoup (bs4) `pip install bs4`
-* requests `pip install requests'
+* requests `pip install requests`
 * [peerflix](https://github.com/mafintosh/peerflix) `sudo npm install peerflix -g`
 # Download
 ``` sh
