@@ -1,5 +1,5 @@
 # Pyflix
-<img src="./banner.png" alt="Banner" width="500px">
+<img src="./banner.png" alt="Banner">
 
 ## About
 Pyflix is a python script that scrapes 1337x for magnet links and use [peerflix](https://github.com/mafintosh/peerflix) to stream them.<br>
